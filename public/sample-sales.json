@@ -1,0 +1,5 @@
+[
+  {"date": "2026-02-01", "product": "AeroDesk Pro", "category": "Furniture", "region": "North", "quantity": 1, "unit_price": 450, "revenue": 450},
+  {"date": "2026-02-02", "product": "PulseMonitor X", "category": "Electronics", "region": "East", "quantity": 2, "unit_price": 89.99, "revenue": 179.98},
+  {"date": "2026-02-03", "product": "HydroBottle 1L", "category": "Lifestyle", "region": "South", "quantity": 5, "unit_price": 12.5, "revenue": 62.5}
+]
